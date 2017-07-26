@@ -1,0 +1,9 @@
+.dessert-ul {
+   text-align: center;
+   color: $main;
+   font-weight: 600;
+   padding: 0;
+   .dessert-li {
+      cursor: pointer;
+   }
+}

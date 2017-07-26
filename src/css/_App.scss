@@ -1,0 +1,36 @@
+// ---- Basic styling----
+body {
+   font-size: 16px;
+   background-color: $background-color;
+   color: $text-color;
+   font-family: 'Muli', sans-serif;
+}
+
+
+// ---- Typography ----
+h2 {
+   font-family: 'Cinzel Decorative', cursive;
+   margin-bottom: 20px;
+}
+h3 {
+   font-size: 170%;
+   font-family: 'Cinzel Decorative', cursive;
+   margin-top: 0;
+   margin-bottom: 2%;
+}
+
+// ---- FOOTER ----
+footer {
+   margin: 20px auto;
+   width: 50%;
+   border-top: 1px solid $main;
+   padding: 10px;
+   p {
+      a {
+         color: $main;
+      }
+      a:hover {
+         color: white;
+      }
+   }
+}
