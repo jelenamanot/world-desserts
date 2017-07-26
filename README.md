@@ -1,4 +1,4 @@
-# World's desserts
+# World desserts
 
 This app is developed using React and Redux. Data is saved in the reducer and then rendered to the screen. User can switch between several desserts and get more info about selected dessert.
 Styling is done in Sass(SCSS).
